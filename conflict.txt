@@ -1,1 +1,1 @@
-creating conflict between two branches go in feature one
+creating conflict between two branches go in feature two branch
